@@ -62,6 +62,8 @@ Next.js, NestJS, TypeScript, AWS, GCP
   新規プロダクトの立ち上げからリリース・グロースを担当
 - 開発組織の生産性可視化SaaS
   新規機能の開発、DX改善を担当
+- 中古車販売サービスの開発
+  生成AIを用いたお客様対応速度改善を実施
 
 Ruby on Rails, React.js, Next.js, TypeScript
 
